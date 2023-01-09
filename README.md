@@ -8,10 +8,6 @@
 
 Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
 
-## UI Design
-
-[![Figma](https://uikit.to/book-review-landing-page/)
-
 ## Design files
 
 If you need the design files, you can download them from Uikit.to 👉 hhttps://uikit.to/book-review-landing-page/
