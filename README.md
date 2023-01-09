@@ -6,7 +6,7 @@
 
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+Check the live demo here 👉️ [https://harithya.github.io/Book-Review-Material-UI/](https://harithya.github.io/Book-Review-Material-UI/)
 
 ## Design files
 
