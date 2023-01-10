@@ -10,7 +10,7 @@ Check the live demo here 👉️ [https://harithya.github.io/Book-Review-Materia
 
 ## Design files
 
-If you need the design files, you can download them from Uikit.to 👉 hhttps://uikit.to/book-review-landing-page/
+If you need the design files, you can download them from Uikit.to 👉 [https://uikit.to/book-review-landing-page/](https://uikit.to/book-review-landing-page/)
 
 ## Usage
 
